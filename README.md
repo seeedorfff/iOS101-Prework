@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 <img src="./vid-walk.gif" alt="Video Walkthrough">
 
 ## App Brainstorming (Step 4)
-*Netflix*
+- *Netflix*
   - Changing App theme
   - Horizontal Scroll 
-*SnapChat*
+- *SnapChat*
   - Logo Change  
   - App Widgets
 
