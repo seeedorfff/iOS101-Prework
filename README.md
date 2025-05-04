@@ -15,11 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 <img src="./vid-walk.gif" alt="Video Walkthrough">
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+*Netflix*
+  - Changing App theme
+  - Horizontal Scroll 
+*SnapChat*
+  - Logo Change  
+  - App Widgets
 
 ## Notes
 
